@@ -1,0 +1,476 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Reception v1.1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-24 09:32:40+0000\n"
+"Last-Translator: Dumitru Brinzan <info@hermesthemes.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: footer.php:4
+#: hermes-admin/hermes-customizer.php:134
+#@ reception
+msgid "All Rights Reserved"
+msgstr ""
+
+#: functions.php:292
+#, php-format
+#@ reception
+msgid "%s"
+msgstr ""
+
+#: featured-pages.php:23
+#: featured-pages.php:47
+#: featured-pages.php:71
+#: loop-archives.php:25
+#: loop-dir.php:24
+#: loop.php:11
+#, php-format
+#@ reception
+#@ hermes_textdomain
+msgid "Permalink to %s"
+msgstr ""
+
+#: single.php:38
+#@ reception
+msgid "Tags"
+msgstr ""
+
+#: content-page-dir.php:9
+#: content-page.php:20
+#: single.php:28
+#@ reception
+msgid "Edit page"
+msgstr ""
+
+#: content-page-dir.php:18
+#: content-page.php:29
+#: single.php:37
+#@ reception
+msgid "Pages"
+msgstr ""
+
+#: pagination.php:14
+#@ reception
+msgid "&larr; Previous"
+msgstr ""
+
+#: pagination.php:15
+#@ reception
+msgid "Next &rarr;"
+msgstr ""
+
+#: archive.php:10
+#@ reception
+msgid "Post Tagged with:"
+msgstr ""
+
+#: archive.php:11
+#: archive.php:12
+#: archive.php:13
+#@ reception
+msgid "Archive for"
+msgstr ""
+
+#: author.php:11
+#@ reception
+msgid "Posts by"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:23
+#@ reception
+msgid "General Settings"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:32
+#@ reception
+msgid "Homepage Settings"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:244
+#@ reception
+msgid "Display Featured Pages"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:259
+#@ reception
+msgid "Featured Page #1"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:274
+#@ reception
+msgid "Featured Page #2"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:289
+#@ reception
+msgid "Featured Page #3"
+msgstr ""
+
+#: hermes-admin/post-options.php:66
+#@ reception
+msgid "Yes"
+msgstr ""
+
+#: search.php:10
+#@ reception
+msgid "Search Results for"
+msgstr ""
+
+#: comments.php:2
+#@ reception
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:14
+#@ reception
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:14
+#@ reception
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:14
+#@ reception
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:18
+#: comments.php:32
+#@ reception
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:18
+#: comments.php:32
+#@ reception
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:59
+#@ reception
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:64
+#@ reception
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:69
+#@ reception
+msgid "Your Website"
+msgstr ""
+
+#: comments.php:76
+#@ reception
+msgid "Comment"
+msgstr ""
+
+#: comments.php:79
+#, php-format
+#@ default
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: comments.php:80
+#@ reception
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:81
+#@ reception
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:82
+#@ reception
+msgid "Submit Comment"
+msgstr ""
+
+#: functions.php:293
+#, php-format
+#@ reception
+msgid "%s at %s"
+msgstr ""
+
+#: functions.php:293
+#@ reception
+msgid "Edit"
+msgstr ""
+
+#: functions.php:297
+#@ reception
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:318
+#@ reception
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:318
+#@ reception
+msgid "(Edit)"
+msgstr ""
+
+#: 404.php:10
+#@ reception
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:15
+#@ reception
+msgid "Apologies, but the requested page cannot be found. Perhaps searching will help find a related page."
+msgstr ""
+
+#: 404.php:21
+#@ reception
+msgid "Browse Categories"
+msgstr ""
+
+#: 404.php:26
+#@ reception
+msgid "Monthly Archives"
+msgstr ""
+
+#: footer.php:4
+#: hermes-admin/hermes-customizer.php:134
+#@ reception
+msgid "Copyright &copy; "
+msgstr ""
+
+#: comments.php:44
+#@ reception
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:3
+#@ reception
+msgid "Theme by"
+msgstr ""
+
+#: functions.php:132
+#@ reception
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:134
+#@ reception
+msgid "Appears in the narrow column of the site."
+msgstr ""
+
+#: functions.php:142
+#@ reception
+msgid "Home: Column 1"
+msgstr ""
+
+#: functions.php:144
+#: functions.php:154
+#: functions.php:164
+#@ reception
+msgid "Appears only on the homepage of the site."
+msgstr ""
+
+#: functions.php:152
+#@ reception
+msgid "Home: Column 2"
+msgstr ""
+
+#: functions.php:162
+#@ reception
+msgid "Home: Column 3"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:11
+#@ reception
+msgid "Default"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:41
+#@ reception
+msgid "Fonts & Color Settings"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:60
+#@ reception
+msgid "Logo File Upload"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:78
+#@ reception
+msgid "Display Contacts in Header"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:94
+#@ reception
+msgid "Contact: Telephone"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:111
+#@ reception
+msgid "Contact: Address"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:128
+#@ reception
+msgid "Contact: Email"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:146
+#@ reception
+msgid "Copyright text in Footer"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:163
+#@ reception
+msgid "Display Slideshow"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:179
+#@ reception
+msgid "Autoplay Slideshow"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:194
+#@ reception
+msgid "Slideshow Page (with images)"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:210
+#@ reception
+msgid "Number of Images to Display"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:227
+#@ reception
+msgid "Slideshow Autoplay Speed (in milliseconds)"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:306
+#@ reception
+msgid "Choose the main body font"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:325
+#@ reception
+msgid "Theme wrapper background color"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:345
+#@ reception
+msgid "Menu background color"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:365
+#@ reception
+msgid "Header Contacts background color"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:385
+#@ reception
+msgid "Main body text color"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:405
+#@ reception
+msgid "Main body anchor(link) color"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:425
+#@ reception
+msgid "Main body anchor(link) :hover color"
+msgstr ""
+
+#: hermes-admin/post-options.php:64
+#@ reception
+msgid "Display attached images as a slideshow"
+msgstr ""
+
+#: hermes-admin/post-options.php:67
+#@ reception
+msgid "No"
+msgstr ""
+
+#: loop-archives.php:28
+#: loop-dir.php:26
+#: loop.php:14
+#@ reception
+msgid "Continue Reading"
+msgstr ""
+
+#: header.php:39
+#@ reception
+msgid "Please set up your contact information on the Appearance > Customize page, the General tab."
+msgstr ""
+
+#: functions.php:250
+#@ reception
+msgid "&laquo;"
+msgstr ""
+
+#: functions.php:251
+#@ reception
+msgid "&raquo;"
+msgstr ""
+
+#: functions.php:262
+#@ reception
+msgid "Page"
+msgstr ""
+
+#: functions.php:262
+#@ reception
+msgid "of"
+msgstr ""
+
+#: header.php:66
+#@ reception
+msgid "Please set your Main Menu on this page:"
+msgstr ""
+
+#: header.php:66
+#@ reception
+msgid "Appearance > Menus"
+msgstr ""
+
+#: header.php:67
+#@ reception
+msgid "Other options and theme elements can be set up on this page:"
+msgstr ""
+
+#: header.php:67
+#@ reception
+msgid "Appearance > Customize"
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:24
+#@ reception
+msgid "This controls various general theme settings."
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:33
+#@ reception
+msgid "This controls various homepage theme settings."
+msgstr ""
+
+#: hermes-admin/hermes-customizer.php:42
+#@ reception
+msgid "Customize theme fonts and color of elements."
+msgstr ""
+

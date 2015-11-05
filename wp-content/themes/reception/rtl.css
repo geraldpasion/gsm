@@ -1,0 +1,75 @@
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+.wrapper {
+	text-align: right; 
+}
+
+#main {
+	text-align: right;
+}
+
+#content {
+	float: left;
+}
+
+aside {
+	float: right;
+}
+
+.wrapper-content {
+	padding-right: 30px;
+	padding-left: 0;
+}
+
+.featured-pages .featured-page,
+#widget-columns .hermes-column {
+	float: right;
+	margin-right: 0;
+	margin-left: 2.7777%;
+}
+
+.featured-pages .featured-page-3,
+#widget-columns .hermes-column-3 {
+	margin-left: 0;
+}
+
+#widget-columns .hermes-column {
+	text-align: right;
+}
+
+.hermes-posts-archive .post-cover {
+	float: right;
+	margin-right: 0;
+	margin-left: 4.2253%;
+}
+
+.post-single li {
+	margin-right: 20px;
+	margin-left: 0;
+} 
+
+.commentlist .children {
+	padding-right: 10%;
+	padding-left: 0;
+}
+
+.commentlist .comment-author {
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.commentlist .comment-timestamp {
+	text-align: left;
+}
+
+footer {
+	text-align: right;
+}
+
+.hermes-credit {
+	float: left;
+}
