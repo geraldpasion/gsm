@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP K_HIDE\n"
+"POT-Creation-Date: 2014-09-05 18:38+0100\n"
+"PO-Revision-Date: 2014-09-05 18:51+0100\n"
+"Last-Translator: kuaza <kuaza.ca@gmail.com>\n"
+"Language-Team: kuaza <kuaza.ca@gmail.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins"
+"\\k_hidden\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:134
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:287
+msgid "In order to see this content you need to upgrade your membership."
+msgstr "Bu içeriği görebilmek için üyeliğinizi yükseltmeniz gereklidir."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:310
+msgid "Wordpress hide post, category, tags..."
+msgstr "WordPress yazilari, kategorileri, etiketleri gizle"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:458
+msgid "<hr>New group (role) created!"
+msgstr "<hr>Yeni grup (role) olusturuldu."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:461
+msgid "This group (role) already exists."
+msgstr "Bi grup daha onceden olusturulmus, farkli bir isim ile deneyin."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:533
+msgid "Update success.."
+msgstr "Güncelleme başarılıyla gerçekleştirildi."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:549
+msgid "Default groups"
+msgstr "Default gruplar"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:555
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:581
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:636
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:785
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:1015
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:1050
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:1058
+msgid "Visitors"
+msgstr "Ziyaretciler"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:557
+msgid ""
+"Post or page groups selected here by default when editing the selected "
+"income."
+msgstr ""
+"Yazı yada sayfa düzenlerken burada seçilen gruplar default olarak seçili "
+"gelirler."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:562
+msgid "Which groups can use the plugin ?:"
+msgstr "Eklentiyi hangi gruplar kullanabilir?:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:571
+msgid ""
+"Which group would you like to empower: text editing section groups the "
+"authority to use the selection field"
+msgstr ""
+"Hangi gruplara yetki vermek istersiniz: yazı düzenleme bölümünde grup seçme "
+"alanını kullanabilme yetkisi"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:576
+msgid "Articles out of whack for the default groups:"
+msgstr "Ayarsız yazılar için default gruplar:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:584
+msgid "Disable default for post v.s"
+msgstr "Default olarak devre disi birak secenegi secili olsun mu?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:587
+msgid ""
+"Older posts and pages, If you have to choose the groups you want to show for "
+"settings will apply here."
+msgstr ""
+"Eski yazılar ve sayfalar için göstermek istediğiniz grupları seçmemiş iseniz "
+"buradaki ayarlar geçerli olacaktır."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:591
+msgid "Delete groups:"
+msgstr "Gruplari sil:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:600
+msgid ""
+"You can choose the group you want to delete. There is no turning back, I'm "
+"telling you :)"
+msgstr ""
+"Silmek istediğiniz grupları seçebilirsiniz. Geri dönüşü yoktur, benden "
+"söylemesi :)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:605
+msgid "Add a new group"
+msgstr "Yeni grup ekle"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:607
+msgid "Adding new groups can give authorization desired."
+msgstr "Yeni grup ekleyerek istediğiniz yetkileri verebilirsiniz."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:611
+msgid "Explanation for the secret articles"
+msgstr "Gizli yazılar için açıklaması"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:613
+msgid "You can change the description of the parts of secret writing."
+msgstr "Gizli yazıların açıklama kısımlarını buradan değiştirebilirsiniz."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:617
+msgid "Entries will be redirected to the page link"
+msgstr "Yazılar için yönlendirilecek sayfa linki"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:619
+msgid "Hidden articles will be redirected to the page your link text."
+msgstr "Gizlenen yazılar için yönlendirilecek sayfa linkini yazınız"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:624
+msgid "Categories and tags will be redirected to the page link"
+msgstr "Kategori ve etiketler için yönlendirilecek sayfa linki"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:626
+msgid ""
+"Hidden categories, and tags will be redirected to the page you link to "
+"article"
+msgstr ""
+"Gizlenen kategori ve etiketler için yönlendirilecek sayfa linkini yazınız"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:630
+msgid "Who can see this site?"
+msgstr "Bu siteyi kimler görebilir?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:638
+msgid "Group without the approval of the designated page, are directed (above)"
+msgstr ""
+"Burada secili olmayan gruplar sitede hic bir islem yapamazlar ve yonlendirme "
+"sayfasina yonlendirilirler.."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:644
+msgid "Update"
+msgstr "Guncelle"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:666
+msgid "Kuaza show group role options"
+msgstr "Kuaza Sayfaya ozel grup ayarlari"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:763
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:1010
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:1034
+msgid "Who can see this page?"
+msgstr "Bu sayfayı kimler görebilir?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:796
+msgid "Disable k_hidden_group plugin for this post!"
+msgstr "Bu sayfa için k_group gizleme eklentisini devredisi bırak!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:799
+msgid "Disable for this post"
+msgstr "Bu yazı için devredisi bırak!"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:1017
+#: C:\wamp\www\wordpress\wp-content\plugins\k_hidden/index.php:1065
+msgid "Disable for hidden option"
+msgstr "Bu sayfa için devredisi bırak!"

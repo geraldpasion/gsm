@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 	<head>
+		<link href="localhost/gsm/bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet">
+		<!-- Latest compiled and minified CSS -->
+
 		<meta charset="<?php bloginfo( 'charset' ); ?>" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="profile" href="http://gmpg.org/xfn/11" />
@@ -9,6 +12,12 @@
 		<script src="<?php echo get_template_directory_uri(); ?>/js/html5.js" type="text/javascript"></script>
 		<![endif]-->
 	<?php wp_head(); ?>
+	<!-- Bootstrap -->
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+
+    
 </head>
 
 <body <?php body_class(); ?>>
@@ -73,4 +82,7 @@
 
 			</nav><!-- #menu-main -->
 		
+
+		
+
 		</header>

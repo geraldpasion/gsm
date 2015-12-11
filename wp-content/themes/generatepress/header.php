@@ -17,6 +17,9 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<?php wp_head(); ?>
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
 </head>
 
 <body <?php generate_body_schema();?> <?php body_class(); ?>>
@@ -28,6 +31,7 @@
 			<?php generate_header_items(); ?>
 			<?php do_action( 'generate_after_header_content'); ?>
 		</div><!-- .inside-header -->
+	
 	</header><!-- #masthead -->
 	<?php do_action( 'generate_after_header' ); ?>
 	
